@@ -3,7 +3,7 @@ Just for linguists.
 Forked from gabrielecirulli's 2048.
 
 Texts below have not been changed from the original version.
---€” Isaac
+-Isaac
 
 Play it here : https://files.nyu.edu/ilb220/public/isaac/fun/geminator/
 
